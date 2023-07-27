@@ -37,6 +37,8 @@
 !*.docx
 !*.doc
 !*.xlsx
+!*.pri
+!*.pro
 .vs
 x64
 log
